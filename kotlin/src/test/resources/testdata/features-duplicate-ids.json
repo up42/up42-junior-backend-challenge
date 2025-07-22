@@ -1,0 +1,34 @@
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[0, 0], [1, 0], [1, 1], [0, 0]]]
+        },
+        "properties": {
+          "id": "duplicate-id",
+          "timestamp": 1500000000000
+        }
+      }
+    ]
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[10, 10], [11, 10], [11, 11], [10, 10]]]
+        },
+        "properties": {
+          "id": "duplicate-id",
+          "timestamp": 1600000000000
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "bbox": [10.0, -7.0, 13.0, -4.0],
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [10.0, -7.0],
+              [13.0, -6.0],
+              [12.0, -4.0],
+              [10.0, -5.0],
+              [10.0, -7.0]
+            ]
+          ]
+        },
+        "properties": {
+          "id": "f‑100",
+          "timestamp": 1554831167697
+        }
+      },
+      {
+        "type": "Feature",
+        "bbox": [20.0, -10.0, 22.0, -8.0],
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [20.0, -10.0],
+              [22.0, -9.0],
+              [21.0, -8.0],
+              [20.0, -9.0],
+              [20.0, -10.0]
+            ]
+          ]
+        },
+        "properties": {
+          "id": "f‑101",
+          "timestamp": 1554831177697
+        }
+      }
+    ]
+  },
+  {
+      "type": "FeatureCollection",
+      "features": [
+                {
+          "type": "Feature",
+          "bbox": [2.0, -10.0, 22.0, -2.0],
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [0.0, -10.0],
+                [2.0, -9.0],
+                [1.0, -8.0],
+                [70.0, -9.0],
+                [90.0, -10.0]
+              ]
+            ]
+          },
+          "properties": {
+            "id": "f‑101",
+            "timestamp": 1554831177697
+          }
+        }
+      ]
+    }
+]
