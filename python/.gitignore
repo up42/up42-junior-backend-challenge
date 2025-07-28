@@ -1,0 +1,73 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.p~  # autosave files
+*.swp  # vim swap files
+*.bak
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# pip environment
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Poetry
+poetry.lock
+.cache/
+.pytest_cache/
+.coverage
+
+# PyInstaller
+*.spec
+
+# === IDEs ===
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Vim
+*.sw?
+.netrwhist
+*~
+
+# JetBrains IDEs (general)
+.idea/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+
+# === Test Output ===
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+pytestdebug.log
+
+# === Misc ===
+*.sqlite3
+*.db

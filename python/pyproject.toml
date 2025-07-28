@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "up42-junior-backend-challenge"
+version = "0.1.0"
+description = "UP42 junior backend challenge using FastAPI"
+packages = [{ include = "python" }]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.111.1"
+uvicorn = "^0.30.6"
+pydantic = "^2.7.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2.1"
+httpx = "^0.27.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

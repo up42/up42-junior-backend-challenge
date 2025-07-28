@@ -57,7 +57,19 @@ Please make sure the project runs smoothly on your machine **before** the interv
 
 #### Python
 
-- **TODO**: Add instructions for installing dependencies, running the server, and running tests.
+- **Requirements**: Python 3.10+ and Poetry
+- **Install dependencies**:
+  ```bash
+  poetry install
+  ```
+- **Run the app**:
+  ```bash
+  poetry run uvicorn src.main:app --reload
+  ```
+- **Run tests**:
+  ```bash
+  poetry run pytest
+  ```
 
 ---
 
