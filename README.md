@@ -11,7 +11,6 @@ The goal isn’t to get everything perfect — it’s to see how you approach pr
 - We’ll be working **together** on this project **live during the interview**.
 - You can choose the programming language you’re most comfortable with:
     - `kotlin/`
-    - `java/`
     - `python/`
 - You’re free to use **any tools you’d normally use in real life**:
     - Your favorite IDE
@@ -51,13 +50,9 @@ Please make sure the project runs smoothly on your machine **before** the interv
   ./gradlew test
   ```
 
-#### Java
-
-- **TODO**: Add instructions for building, running, and testing the Java version.
-
 #### Python
 
-- **Requirements**: Python 3.10+ and Poetry
+- **Requirements**: Python 3.13+ and Poetry
 - **Install dependencies**:
   ```bash
   poetry install
