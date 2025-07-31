@@ -11,6 +11,7 @@ The goal isn’t to get everything perfect — it’s to see how you approach pr
 - We’ll be working **together** on this project **live during the interview**.
 - You can choose the programming language you’re most comfortable with:
     - `kotlin/`
+    - `java/`
     - `python/`
 - You’re free to use **any tools you’d normally use in real life**:
     - Your favorite IDE
@@ -38,7 +39,7 @@ Please make sure the project runs smoothly on your machine **before** the interv
 
 ### 🧑‍💻 Language-Specific Setup
 
-#### Kotlin
+#### Kotlin/Java
 
 - **Requirements**: Java 17+
 - **Run the app**:

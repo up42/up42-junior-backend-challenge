@@ -1,0 +1,71 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Build System: Gradle ===
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Gradle wrapper logs
+gradlew.bat
+gradlew
+gradle-app.setting
+
+# === Build System: Maven ===
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+out/
+
+# === Eclipse ===
+.project
+.classpath
+.csettings
+.settings/
+
+# === NetBeans ===
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# === VS Code ===
+.vscode/
+
+# === macOS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Logs ===
+*.log
+
+# === Environment Files ===
+.env
+*.env
+
+# === Temporary Files ===
+*.tmp
+*.swp
+*.swo
+*~
+
+# === Package Distribution ===
+*.zip
+*.tar.gz
+*.rar

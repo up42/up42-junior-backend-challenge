@@ -1,0 +1,21 @@
+[
+  null,
+  {
+    "type": "FeatureCollection",
+    "features": [
+      null,
+      {
+        "type": "Feature",
+        "bbox": [1.0, 2.0, 3.0, 4.0],
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[1.0, 2.0], [3.0, 2.0], [3.0, 4.0], [1.0, 2.0]]]
+        },
+        "properties": {
+          "id": "f-null-check",
+          "timestamp": 1600000000000
+        }
+      }
+    ]
+  }
+]
