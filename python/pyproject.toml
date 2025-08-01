@@ -2,7 +2,7 @@
 name = "up42-junior-backend-challenge"
 version = "0.1.0"
 description = "UP42 junior backend challenge using FastAPI"
-packages = [{ include = "python" }]
+packages = [{ include = "src" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
